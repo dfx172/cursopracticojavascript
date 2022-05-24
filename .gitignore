@@ -1,0 +1,8 @@
+#dynamodb
+.dynamodb/
+
+#ternjs por file
+.tern-port
+
+#configuracion visual
+.vscode
