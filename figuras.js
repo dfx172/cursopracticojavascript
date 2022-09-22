@@ -40,3 +40,9 @@ function calcularareacuadrado (lado){
 }
 
 function calcularperimetrocuadrado (lado){return lado*4}
+
+function calcularareatriangulo (base,altura){return (base*altura)/2}
+function calcularperimetrotriangulo (lado1,lado2,base){return lado1+lado2+base}
+function calculardiametrocirculo(radio){return radio*2}
+function  calcularperimetrocirculo(diametro){return diametro*pi}
+function calcularareacirculo(radio){return (radio*radio)*pi}
